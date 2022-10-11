@@ -1,2 +1,2 @@
 # kookmin
-개인
+portfolio
